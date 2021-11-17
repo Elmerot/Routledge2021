@@ -1,0 +1,1929 @@
+;noun;n
+1;člověk;2304491
+2;dítě;1144297
+3;hráč;802388
+4;muž;766750
+5;žena;723611
+6;trenér;648452
+7;soupeř;499507
+8;ředitel;478810
+9;člen;445654
+10;divák;418493
+11;host;404549
+12;starosta;381222
+13;ministr;377130
+14;obyvatel;367801
+15;šéf;358478
+16;občan;347077
+17;návštěvník;346138
+18;osoba;323828
+19;policista;320893
+20;lékař;314067
+21;majitel;313205
+22;česko;298692
+23;kouč;294027
+24;řidič;279656
+25;odborník;274232
+26;zástupce;260741
+27;vítěz;256194
+28;žák;252108
+29;zaměstnanec;249549
+30;mistr;248564
+31;německo;236858
+32;druh;232559
+33;čech;228027
+34;pacient;225415
+35;účastník;218050
+36;pracovník;217113
+37;přítel;215565
+38;kolega;214076
+39;herec;210776
+40;režisér;195186
+41;zájemce;192364
+42;hasič;185651
+43;poslanec;182365
+44;rusko;177581
+45;manažer;174999
+46;představitel;171974
+47;čtenář;169870
+48;kandidát;153265
+49;voják;150090
+50;turista;146550
+51;učitel;146399
+52;novinář;146265
+53;střelec;145746
+54;kamarád;145195
+55;francie;141667
+56;slovensko;140679
+57;kapitán;136351
+58;němec;135539
+59;demokrat;133794
+60;umělec;131861
+61;král;130882
+62;mladík;129866
+63;příznivec;126415
+64;závodník;123708
+65;sportovec;123450
+66;bratr;121173
+67;úředník;115691
+68;senior;115363
+69;polsko;107562
+70;američan;105151
+71;čína;101910
+72;zpěvák;100900
+73;svěřenec;99298
+74;strážník;99074
+75;expert;96000
+76;tvůrce;94936
+77;itálie;94285
+78;existence;94218
+79;vědec;93997
+80;architekt;91616
+81;vlastník;91471
+82;záložník;90873
+83;rakousko;90526
+84;nováček;89885
+85;soudce;88767
+86;asistent;84911
+87;soused;82838
+88;sestra;82433
+89;obchodník;79712
+90;profesor;77405
+91;důchodce;77306
+92;vůdce;75574
+93;dospělý;74846
+94;cizinec;73819
+95;příslušník;73251
+96;rodák;71913
+97;dáma;70193
+98;posluchač;67519
+99;učitelka;67246
+100;analytik;66767
+101;malíř;66706
+102;starostka;65858
+103;údržba;65422
+104;uživatel;64384
+105;borec;63238
+106;uchazeč;62559
+107;tiskový mluvčí;61473
+108;jedinec;61046
+109;pilot;60595
+110;španělsko;60464
+111;velitel;60203
+112;protivník;59500
+113;právník;59431
+114;fotograf;59406
+115;jednotlivec;59072
+116;babička;58504
+117;znalec;57963
+118;izrael;57676
+119;generální ředitel;57129
+120;rus;56309
+121;chlap;54913
+122;děvče;54730
+123;pedagog;54718
+124;japonsko;53769
+125;prodejce;53702
+126;nepřítel;52050
+127;dělník;51528
+128;ukrajina;51294
+129;maďarsko;50989
+130;konkurent;50551
+131;bojovník;50401
+132;švýcarsko;50141
+133;kanada;49829
+134;polák;49358
+135;rom;49202
+136;pracovnice;48882
+137;tajemník;47371
+138;odpůrce;47141
+139;zemědělec;46670
+140;slovák;46374
+141;francouz;45508
+142;řecko;45210
+143;průvodce;45176
+144;psycholog;43448
+145;švédsko;43279
+146;generál;42082
+147;pražan;41783
+148;ministryně;40681
+149;specialista;40164
+150;bytost;39473
+151;státní zástupce;39311
+152;vrah;39303
+153;ochránce;39081
+154;modelka;38921
+155;princezna;38391
+156;advokát;38293
+157;činitel;37136
+158;uprchlík;37044
+159;dobrovolník;36712
+160;žadatel;36684
+161;atlet;36625
+162;austrálie;36347
+163;indie;35831
+164;ital;35330
+165;chovatel;35034
+166;rybář;34680
+167;kuchař;34298
+168;kuba;34046
+169;žid;33690
+170;princ;33215
+171;zastánce;32441
+172;nizozemsko;31533
+173;brit;31310
+174;belgie;31262
+175;bezdomovec;30799
+176;finsko;30487
+177;redaktor;30298
+178;irsko;30240
+179;pozorovatel;30172
+180;kovář;30162
+181;pomocník;30124
+182;věřitel;29829
+183;dirigent;29705
+184;kněz;29700
+185;brazílie;29543
+186;lékařka;29078
+187;sběratel;28480
+188;vinař;28352
+189;matěj;28023
+190;technik;27951
+191;celebrita;27845
+192;krejčí;27805
+193;jugoslávie;27510
+194;komisař;27105
+195;evropan;26709
+196;krajan;26481
+197;chorvatsko;26416
+198;muslim;26162
+199;horák;26065
+200;sekretář;25614
+201;nezaměstnaný;25455
+202;švéd;25157
+203;řemeslník;24790
+204;farář;24362
+205;portugalsko;24360
+206;dánsko;24273
+207;španěl;23976
+208;norsko;23967
+209;dlužník;23786
+210;rakušan;23761
+211;dědeček;23645
+212;památkář;23394
+213;srb;23382
+214;cestovatel;23365
+215;horník;23331
+216;adept;23314
+217;archeolog;23159
+218;rumunsko;23064
+219;společník;22575
+220;mexiko;22378
+221;stoupenec;22194
+222;detektiv;22178
+223;manažerka;22116
+224;strážce;22008
+225;vládce;21725
+226;srbsko;20999
+227;milenec;20925
+228;křesťan;20677
+229;češka;20613
+230;inženýr;20435
+231;gigant;20432
+232;sok;20423
+233;sólista;19833
+234;meteorolog;19805
+235;lodivod;19791
+236;silničář;19635
+237;lovec;19570
+238;brňan;19378
+239;čarodějnice;19364
+240;intelektuál;19230
+241;pěstitel;18918
+242;inspektor;18846
+243;lupič;18777
+244;bulharsko;18635
+245;vyznavač;18314
+246;ekolog;18300
+247;číňan;18221
+248;laik;18160
+249;protagonista;18123
+250;soudkyně;18112
+251;miláček;17903
+252;pasažér;17851
+253;začátečník;17598
+254;patron;17568
+255;chlapík;17486
+256;argentina;17366
+257;předák;17219
+258;vrstevník;17143
+259;slovinsko;16930
+260;japonec;16860
+261;zahradník;16777
+262;amatér;16774
+263;dramaturg;16763
+264;angličan;16668
+265;radikál;16350
+266;brazilec;16132
+267;farmář;16040
+268;bednář;15968
+269;outsider;15771
+270;konzervativec;15641
+271;stavitel;15570
+272;šéfredaktor;15540
+273;lektor;15504
+274;panovník;15423
+275;prodavačka;15258
+276;poslankyně;15217
+277;maďar;15215
+278;řek;15162
+279;švýcar;14973
+280;sládek;14957
+281;filozof;14932
+282;ďábel;14901
+283;blázen;14802
+284;exekutor;14429
+285;extremista;14370
+286;chirurg;14314
+287;ježíšek;14305
+288;garda;14254
+289;taxikář;14022
+290;američanka;13938
+291;zdravotní sestra;13901
+292;sociolog;13850
+293;ukrajinec;13789
+294;bělorusko;13709
+295;major;13620
+296;vietnam;13533
+297;island;13447
+298;prodavač;13427
+299;přistěhovalec;13419
+300;výherce;13348
+301;projektant;13271
+302;kašpar;13170
+303;číšník;13101
+304;děda;12971
+305;badatel;12938
+306;tesař;12907
+307;kypr;12685
+308;včelař;12533
+309;kanaďan;12371
+310;nizozemec;12369
+311;disident;12319
+312;kormidelník;12255
+313;matador;12136
+314;oponent;12008
+315;thajsko;11869
+316;překladatel;11803
+317;násilník;11779
+318;mnich;11744
+319;génius;11707
+320;idol;11612
+321;zedník;11611
+322;opilec;11505
+323;důchodkyně;11501
+324;kouzelník;11445
+325;liberál;11216
+326;izraelec;10981
+327;dealer;10975
+328;komik;10915
+329;chorvat;10906
+330;nový zéland;10857
+331;umělkyně;10852
+332;lotyšsko;10822
+333;litva;10819
+334;šéfkuchař;10777
+335;kozák;10776
+336;plukovník;10575
+337;konstruktér;10542
+338;řezník;10440
+339;australan;10336
+340;sociální pracovník;10325
+341;plzeňan;10299
+342;kočí;10205
+343;primát;10171
+344;zabiják;10117
+345;dán;10090
+346;novinářka;10044
+347;soudruh;10026
+348;stavebník;10018
+349;černoch;9866
+350;milionář;9863
+351;hongkong;9817
+352;mládek;9649
+353;konzument;9516
+354;restaurátor;9511
+355;severní korea;9494
+356;učeň;9414
+357;potápěč;9361
+358;operační důstojník;9354
+359;belgičan;9348
+360;hříšník;9296
+361;pekař;9274
+362;gruzie;9209
+363;sluha;9203
+364;chile;9160
+365;malta;9119
+366;imigrant;9088
+367;dobrodruh;9069
+368;zpracovatel;9066
+369;makléř;9026
+370;němka;9024
+371;jižní korea;9022
+372;šlechtic;9011
+373;aspirant;8978
+374;mechanik;8858
+375;statistik;8834
+376;baron;8798
+377;pražák;8796
+378;profesorka;8768
+379;zámečník;8768
+380;vietnamec;8752
+381;běženec;8726
+382;trpaslík;8714
+383;bavič;8679
+384;magnát;8669
+385;světec;8660
+386;šampión;8658
+387;policajt;8372
+388;diabetik;8352
+389;akademik;8322
+390;kadet;8304
+391;brácha;8200
+392;řezbář;8157
+393;estonsko;8145
+394;obchodní ředitel;8145
+395;baba;8122
+396;sklář;8071
+397;portugalec;8055
+398;dispečer;8011
+399;makedonie;7970
+400;družka;7918
+401;teoretik;7830
+402;alkoholik;7817
+403;ostravan;7789
+404;rolník;7719
+405;smrtelník;7715
+406;chudák;7639
+407;emigrant;7577
+408;přemožitel;7533
+409;ir;7431
+410;suverén;7402
+411;cikán;7301
+412;zápasník;7281
+413;sekretářka;7238
+414;singapur;7227
+415;tchaj-wan;7220
+416;přívrženec;7144
+417;policistka;7106
+418;přeborník;7084
+419;kolumbie;7071
+420;ošetřovatel;7064
+421;myslitel;7033
+422;válečník;7023
+423;výzkumník;6928
+424;keňa;6910
+425;idiot;6866
+426;bába;6862
+427;stařec;6731
+428;signatář;6689
+429;modelář;6684
+430;invalida;6663
+431;fin;6631
+432;argentinec;6623
+433;zprostředkovatel;6603
+434;sbormistr;6578
+435;psovod;6553
+436;měšťan;6480
+437;rumun;6475
+438;choreograf;6417
+439;bližní;6370
+440;ruska;6354
+441;lucembursko;6299
+442;dědek;6280
+443;separatista;6175
+444;stařenka;6133
+445;holanďan;6119
+446;hlupák;6105
+447;mužík;6101
+448;venezuela;6093
+449;krejčík;6092
+450;oblíbenec;6058
+451;podivín;6053
+452;vetřelec;5996
+453;zoolog;5906
+454;účetní;5884
+455;jižní afrika;5864
+456;masér;5860
+457;padouch;5858
+458;babka;5853
+459;nestraník;5833
+460;pyrotechnik;5825
+461;blbec;5815
+462;ilustrátor;5786
+463;sklenář;5708
+464;truhlář;5678
+465;fanatik;5622
+466;mimoň;5567
+467;kadeřník;5566
+468;bojovnice;5561
+469;našinec;5556
+470;revizor;5541
+471;francouzka;5485
+472;kumpán;5477
+473;polka;5467
+474;slovinec;5444
+475;chalupář;5419
+476;vychovatel;5359
+477;barman;5312
+478;bulhar;5310
+479;penzista;5280
+480;smolař;5265
+481;slovenka;5201
+482;vedoucí pracovník;5139
+483;kurd;5118
+484;gangster;5114
+485;reformátor;5111
+486;děd;5091
+487;vesničan;5045
+488;kongo;4986
+489;fyzioterapeut;4971
+490;nešťastník;4963
+491;cukrář;4921
+492;starousedlík;4879
+493;tlumočník;4836
+494;mazák;4802
+495;programátor;4790
+496;ústečan;4782
+497;statik;4678
+498;ind;4629
+499;personalista;4627
+500;marod;4611
+501;madona;4607
+502;individuum;4557
+503;peru;4541
+504;italka;4527
+505;afričan;4526
+506;geolog;4525
+507;chůva;4513
+508;arménie;4481
+509;hospodyně;4455
+510;chmelař;4452
+511;strojvedoucí;4429
+512;uklízečka;4415
+513;benjamínek;4405
+514;osadník;4366
+515;finanční ředitel;4307
+516;knihkupec;4307
+517;nepál;4307
+518;knihovník;4260
+519;vladař;4237
+520;sympaťák;4223
+521;filipíny;4197
+522;technolog;4186
+523;samotář;4180
+524;etiopie;4147
+525;korejec;4138
+526;vizionář;4118
+527;mongolsko;4071
+528;kameník;4060
+529;barma;4014
+530;kynolog;4003
+531;bandita;3892
+532;běloch;3880
+533;nor;3845
+534;ghana;3836
+535;kaskadér;3834
+536;nestor;3800
+537;navigátor;3775
+538;persona;3749
+539;poručík;3718
+540;snílek;3713
+541;dříč;3710
+542;kominík;3707
+543;pokladní;3702
+544;notář;3689
+545;fotoreportér;3682
+546;učenec;3670
+547;frajer;3664
+548;rváč;3662
+549;zimbabwe;3648
+550;hodnostář;3626
+551;technický ředitel;3618
+552;levák;3574
+553;stařík;3525
+554;abstinent;3515
+555;opavan;3512
+556;informátor;3499
+557;elektrikář;3487
+558;darebák;3447
+559;bělorus;3411
+560;lotyš;3405
+561;španělka;3399
+562;filmový režisér;3392
+563;prominent;3391
+564;scénograf;3378
+565;opravář;3373
+566;kubánec;3372
+567;pedofil;3337
+568;tulák;3321
+569;figurant;3303
+570;zvukař;3275
+571;kambodža;3263
+572;cvičitel;3230
+573;obchodní zástupce;3228
+574;farník;3209
+575;podplukovník;3186
+576;barbar;3150
+577;ateista;3137
+578;čekatel;3130
+579;salvador;3126
+580;antropolog;3122
+581;vegetarián;3119
+582;svářeč;3108
+583;babice;3101
+584;mexičan;3078
+585;kurýr;3072
+586;otužilec;3059
+587;jihlavan;3057
+588;satan;3056
+589;referent;3052
+590;rwanda;3050
+591;bouřlivák;3044
+592;vrchní sestra;3041
+593;olomoučan;3039
+594;archivář;3029
+595;služebník;3024
+596;strojvůdce;3013
+597;scénárista;2990
+598;neslyšící;2987
+599;človíček;2986
+600;chuligán;2967
+601;samuraj;2952
+602;pěšák;2938
+603;superman;2926
+604;debutant;2913
+605;marketingový ředitel;2868
+606;mudrc;2865
+607;kosmetička;2857
+608;zrůda;2857
+609;astrolog;2853
+610;venkovan;2853
+611;vykonavatel;2852
+612;odpadlík;2851
+613;dobrák;2830
+614;dvojník;2802
+615;kapitalista;2784
+616;zbabělec;2779
+617;realitní makléř;2748
+618;krajánek;2737
+619;recepční;2733
+620;porodní asistentka;2728
+621;šťastlivec;2724
+622;švadlena;2695
+623;vtipálek;2688
+624;uganda;2656
+625;stavbyvedoucí;2649
+626;astmatik;2646
+627;kardiak;2638
+628;plavčík;2638
+629;zbohatlík;2598
+630;výpravčí;2595
+631;kulturista;2590
+632;introvert;2586
+633;letuška;2585
+634;norka;2575
+635;angola;2564
+636;louda;2562
+637;bolívie;2557
+638;rakušanka;2544
+639;strejda;2522
+640;ekvádor;2510
+641;kostarika;2509
+642;aristokrat;2507
+643;šlechtična;2502
+644;mostečan;2498
+645;vzdělanec;2498
+646;číňanka;2489
+647;uruguay;2488
+648;estonec;2478
+649;švédka;2475
+650;madagaskar;2467
+651;košíkář;2458
+652;ortoped;2453
+653;britka;2443
+654;japonka;2443
+655;tunelář;2439
+656;litevec;2433
+657;manipulátor;2431
+658;pohlavár;2426
+659;utečenec;2419
+660;čistič;2418
+661;keramik;2414
+662;kladeňák;2411
+663;pracant;2405
+664;trestanec;2402
+665;animátor;2389
+666;šikula;2385
+667;zlatník;2379
+668;ukrajinka;2362
+669;jihoafričan;2361
+670;moldavsko;2357
+671;pokladník;2329
+672;australanka;2310
+673;švýcarka;2305
+674;hodinář;2295
+675;machr;2295
+676;patriarcha;2284
+677;popelář;2284
+678;zloduch;2278
+679;asiat;2266
+680;jugoslávec;2264
+681;strážný;2249
+682;pitomec;2247
+683;humanista;2243
+684;dospělák;2238
+685;armén;2236
+686;vizážistka;2229
+687;mali;2219
+688;panama;2214
+689;casanova;2198
+690;idealista;2197
+691;kavalír;2195
+692;koželuh;2193
+693;plzeňák;2187
+694;divoch;2162
+695;hrobník;2162
+696;tazatel;2162
+697;mazánek;2157
+698;liberečan;2155
+699;trosečník;2148
+700;provazník;2146
+701;jidáš;2130
+702;ovocnář;2125
+703;medik;2120
+704;sedlář;2117
+705;nadporučík;2114
+706;učedník;2114
+707;maďarka;2104
+708;keňan;2101
+709;údržbář;2101
+710;klempíř;2088
+711;projektový manažer;2083
+712;zubní lékař;2078
+713;kumštýř;2064
+714;poustevník;2048
+715;imitátor;2035
+716;vyhnanec;2035
+717;hutník;2028
+718;rumunka;2026
+719;zoufalec;2016
+720;aranžér;2007
+721;krajinář;1975
+722;personální ředitel;1975
+723;paraguay;1971
+724;nespokojenec;1966
+725;vrátný;1964
+726;lenoch;1960
+727;zombie;1953
+728;písař;1951
+729;týpek;1948
+730;dělnice;1934
+731;kamerun;1934
+732;požárník;1895
+733;vědkyně;1893
+734;kacíř;1886
+735;vrhač;1886
+736;snob;1874
+737;belgičanka;1872
+738;tanzanie;1864
+739;divadelní režisér;1847
+740;světice;1841
+741;kanaďanka;1824
+742;kurdistán;1814
+743;romka;1811
+744;světák;1793
+745;cikánka;1778
+746;pivovarník;1778
+747;makedonec;1756
+748;guatemala;1744
+749;eminence;1741
+750;kolumbijec;1718
+751;speciální pedagog;1712
+752;urbanista;1704
+753;papaláš;1700
+754;elév;1672
+755;azylant;1669
+756;buran;1667
+757;hradečák;1653
+758;islanďan;1650
+759;mizera;1645
+760;zelenáč;1628
+761;mongol;1622
+762;netvor;1622
+763;agronom;1619
+764;provozní ředitel;1612
+765;bourák;1603
+766;topič;1599
+767;nájezdník;1597
+768;tkadlec;1597
+769;samorost;1594
+770;chilan;1586
+771;kyrgyzstán;1584
+772;montér;1584
+773;angličanka;1579
+774;šička;1575
+775;nákupčí;1574
+776;anesteziolog;1564
+777;osobní strážce;1553
+778;nemluvně;1532
+779;brňák;1530
+780;šíbr;1525
+781;měšťák;1509
+782;veterinární lékař;1502
+783;vysokoškolský učitel;1502
+784;buddhista;1488
+785;hrubec;1486
+786;severokorejec;1485
+787;střihač;1479
+788;podnikavec;1473
+789;paleontolog;1470
+790;soustružník;1460
+791;furiant;1457
+792;podomní prodejce;1446
+793;gruzínec;1445
+794;traktorista;1439
+795;hulvát;1437
+796;individualista;1428
+797;evropanka;1427
+798;skladník;1415
+799;debil;1410
+800;namibie;1407
+801;nizozemka;1405
+802;filantrop;1404
+803;korektor;1401
+804;novozélanďan;1401
+805;stařeček;1399
+806;brusič;1366
+807;povaleč;1366
+808;rybníkář;1363
+809;halama;1350
+810;ztroskotanec;1343
+811;primitiv;1340
+812;provozovatel restaurace;1336
+813;nepoctivec;1335
+814;exhibicionista;1334
+815;chorvatka;1333
+816;bafuňář;1327
+817;dobrodinec;1322
+818;slaboch;1315
+819;narušitel;1312
+820;zlíňan;1312
+821;usedlík;1303
+822;sukničkář;1295
+823;chytrák;1274
+824;jazykovědec;1273
+825;rytec;1273
+826;zlatíčko;1267
+827;zambie;1261
+828;stařena;1256
+829;thajec;1253
+830;tiskař;1245
+831;zelinář;1244
+832;mužíček;1238
+833;brazilka;1235
+834;šprýmař;1233
+835;rekonvalescent;1232
+836;muslimka;1229
+837;ničema;1229
+838;tovaryš;1218
+839;židovka;1217
+840;zlosyn;1213
+841;kmet;1212
+842;soukmenovec;1205
+843;taneční mistr;1203
+844;seychely;1201
+845;pokrývač;1194
+846;metodik;1191
+847;neandertálec;1187
+848;ostravák;1187
+849;bulharka;1182
+850;skalník;1178
+851;šperkař;1176
+852;zdravotnický záchranář;1175
+853;exponent;1167
+854;chalupník;1166
+855;maskér;1160
+856;prosťáček;1158
+857;rozhodce;1153
+858;vlkodlak;1153
+859;neviňátko;1148
+860;výrobní ředitel;1147
+861;strojník;1140
+862;hegemon;1135
+863;hypochondr;1133
+864;stavební inženýr;1131
+865;uklízeč;1131
+866;administrativní pracovník;1125
+867;moralista;1125
+868;běloruska;1123
+869;blb;1120
+870;kolonizátor;1119
+871;ubožák;1113
+872;hinduista;1112
+873;zřízenec;1111
+874;doyen;1105
+875;urolog;1103
+876;nestvůra;1092
+877;schizofrenik;1086
+878;mystik;1074
+879;pokrytec;1074
+880;primadona;1066
+881;ignorant;1063
+882;fakír;1061
+883;externista;1060
+884;posuzovatel;1058
+885;florista;1054
+886;převozník;1047
+887;protiva;1046
+888;zapisovatel;1041
+889;poctivec;1040
+890;honduras;1036
+891;karbaník;1033
+892;laos;1032
+893;mauricius;1028
+894;manekýn;1027
+895;psanec;1027
+896;klenotník;1026
+897;nomád;1025
+898;mosambik;1021
+899;nikaragua;1018
+900;vyvrhel;1018
+901;kolonista;1016
+902;rutinér;1011
+903;pobuda;1010
+904;starožitník;1004
+905;surovec;1001
+906;logoped;998
+907;přisluhovač;991
+908;dánka;988
+909;finka;979
+910;srbka;978
+911;nečlen;975
+912;obuvník;973
+913;opozičník;973
+914;černohorec;972
+915;potížista;970
+916;štvanec;970
+917;fracek;955
+918;osvětlovač;951
+919;benjamín;949
+920;vyděděnec;943
+921;extrovert;941
+922;nástrojař;939
+923;finanční analytik;938
+924;sanitář;937
+925;šotek;932
+926;doručovatel;924
+927;zvrhlík;918
+928;aristokratka;909
+929;vegan;908
+930;uzenář;900
+931;hydrolog;897
+932;bonviván;895
+933;zběh;893
+934;kypřan;890
+935;tupec;884
+936;cholerik;883
+937;hrázný;881
+938;praporčík;871
+939;botswana;868
+940;strejc;868
+941;kápo;866
+942;slovinka;866
+943;dezertér;863
+944;lidumil;860
+945;tambor;859
+946;jihokorejec;857
+947;všeuměl;854
+948;barista;850
+949;bezvěrec;849
+950;komparzista;847
+951;optik;839
+952;nadčlověk;837
+953;vietnamka;835
+954;seřizovač;834
+955;výživový poradce;829
+956;blondýn;828
+957;tester;828
+958;šibal;822
+959;toreador;822
+960;vykuk;822
+961;kretén;819
+962;burgr;808
+963;palič;805
+964;kněžka;803
+965;krajkářka;803
+966;proletář;794
+967;záletník;792
+968;etiopan;786
+969;velitelka;785
+970;honorace;773
+971;čahoun;771
+972;bezpečnostní technik;768
+973;potentát;767
+974;tatér;764
+975;filipínec;762
+976;staniční sestra;761
+977;záložák;761
+978;moldavan;755
+979;dlaždič;752
+980;mlékař;752
+981;školní inspektor;751
+982;svobodník;748
+983;cizák;746
+984;knihař;745
+985;elektrotechnik;741
+986;pedant;737
+987;epileptik;735
+988;zrzka;735
+989;vrchní inspektor;732
+990;farářka;728
+991;lesní dělník;727
+992;nádeník;727
+993;laborant;726
+994;nohsled;723
+995;knihomol;721
+996;lucemburčan;715
+997;desátník;711
+998;kamerunec;708
+999;farmaceut;699
+1000;simulant;696
+1001;vinohradník;695
+1002;vrchní komisař;686
+1003;vodař;684
+1004;montážní dělník;683
+1005;negr;678
+1006;technický dozor;674
+1007;pračlověk;670
+1008;blbeček;664
+1009;jogín;664
+1010;hrdlořez;660
+1011;srandista;659
+1012;slušňák;658
+1013;geograf;655
+1014;lakýrník;655
+1015;peruánec;654
+1016;tuzemec;648
+1017;domkář;646
+1018;popleta;645
+1019;lodník;641
+1020;rotmistr;636
+1021;puritán;635
+1022;jasnovidec;633
+1023;stařešina;630
+1024;praktikant;628
+1025;vysídlenec;624
+1026;venezuelan;623
+1027;vševěd;623
+1028;řekyně;619
+1029;nymfomanka;618
+1030;zootechnik;614
+1031;squater;609
+1032;feudál;606
+1033;šereda;604
+1034;četař;602
+1035;děvečka;602
+1036;šmudla;596
+1037;paša;595
+1038;gigolo;594
+1039;trýznitel;594
+1040;korejka;593
+1041;mrňous;593
+1042;lajdák;590
+1043;puškař;590
+1044;bručoun;587
+1045;slévač;584
+1046;živáček;583
+1047;konzervátor;582
+1048;čtverák;580
+1049;badatelka;578
+1050;skoták;578
+1051;uruguayec;578
+1052;osvícenec;575
+1053;zkušební komisař;566
+1054;křesťanka;561
+1055;kubánka;560
+1056;holanďanka;557
+1057;směnárník;555
+1058;tchajwanec;555
+1059;hrubián;551
+1060;natěrač;548
+1061;pracovník finanční;547
+1062;pair;546
+1063;katan;545
+1064;bezpečnostní manažer;542
+1065;hejsek;542
+1066;koumák;541
+1067;produktový manažer;541
+1068;indka;540
+1069;jeřábník;534
+1070;rarášek;534
+1071;kartograf;533
+1072;geodet;531
+1073;nemrava;530
+1074;osůbka;524
+1075;mahátma;511
+1076;čalouník;509
+1077;plebejec;508
+1078;anorektička;506
+1079;pomatenec;503
+1080;stevard;502
+1081;břídil;501
+1082;květinář;500
+1083;mravokárce;500
+1084;brach;493
+1085;malťan;493
+1086;stavební technik;493
+1087;servisní technik;492
+1088;kloboučník;491
+1089;pecivál;491
+1090;chuďas;490
+1091;nicka;489
+1092;mladice;487
+1093;děvkař;486
+1094;libertin;484
+1095;nevolník;484
+1096;ochutnávač;483
+1097;vystěhovalec;481
+1098;neposeda;479
+1099;bláhovec;477
+1100;ladič;477
+1101;lepič;476
+1102;střelmistr;475
+1103;vlakvedoucí;475
+1104;služebnice;472
+1105;mouřenín;469
+1106;sprosťák;469
+1107;irka;467
+1108;arborista;466
+1109;nýmand;464
+1110;asiatka;458
+1111;mučitel;453
+1112;panoš;450
+1113;televizní režisér;450
+1114;mexičanka;448
+1115;inteligent;445
+1116;jihoafričanka;441
+1117;romský asistent;441
+1118;obkladač;439
+1119;elektromechanik;438
+1120;nestyda;436
+1121;rusovláska;433
+1122;krupiér;431
+1123;nepálec;431
+1124;frézař;426
+1125;paraplegik;422
+1126;hňup;421
+1127;slouha;421
+1128;paranoik;419
+1129;logistik;417
+1130;dražebník;416
+1131;ňouma;414
+1132;mrzout;413
+1133;litevka;410
+1134;maloměšťák;407
+1135;lotyška;400
+1136;rozhlasový moderátor;400
+1137;staroušek;400
+1138;ghaňan;394
+1139;přivandrovalec;392
+1140;diagnostik;389
+1141;geofyzik;388
+1142;voyeur;388
+1143;fúrie;382
+1144;argentinka;381
+1145;páže;380
+1146;myanmar;378
+1147;pouliční prodejce;378
+1148;barmánec;377
+1149;dobroděj;376
+1150;neznaboh;375
+1151;thajka;373
+1152;poštovní doručovatel;372
+1153;nutriční terapeut;371
+1154;hemofilik;370
+1155;osídlenec;370
+1156;pouliční prodavač;369
+1157;snaživec;369
+1158;bídák;367
+1159;donchuán;367
+1160;duce;367
+1161;garderobiér;365
+1162;kožešník;365
+1163;pojišťovací makléř;362
+1164;estonka;361
+1165;portugalka;361
+1166;dekoratér;360
+1167;preparátor;358
+1168;prostopášník;358
+1169;baletní mistr;357
+1170;vojačka;357
+1171;benin;355
+1172;volnomyšlenkář;355
+1173;zrzek;355
+1174;steward;354
+1175;brzdař;353
+1176;inspicient;348
+1177;sladovník;348
+1178;vagabund;347
+1179;proc;346
+1180;rotný;346
+1181;nevzdělanec;344
+1182;pokrokář;344
+1183;dogmatik;342
+1184;grenada;341
+1185;hydrogeolog;339
+1186;afričanka;337
+1187;ožrala;337
+1188;purista;336
+1189;izraelka;333
+1190;mudrlant;332
+1191;kabrňák;331
+1192;zapomnětlivec;331
+1193;asistent režie;325
+1194;korepetitor;325
+1195;budižkničemu;321
+1196;kambodžan;320
+1197;sektář;320
+1198;neurvalec;319
+1199;chlípník;316
+1200;posunovač;315
+1201;triumfátor;315
+1202;třídič;313
+1203;kapverdy;311
+1204;moula;310
+1205;rozumbrada;310
+1206;keňanka;306
+1207;paraguayec;305
+1208;proutkař;304
+1209;zbrojíř;304
+1210;gruzín;300
+1211;chevalier;299
+1212;hladovec;299
+1213;zuřivec;298
+1214;chytrolín;297
+1215;gastarbeitr;297
+1216;hudební režisér;296
+1217;materialista;294
+1218;vandrák;293
+1219;ekvádorec;287
+1220;karosář;287
+1221;praktikantka;286
+1222;kovodělník;285
+1223;patolízal;285
+1224;výstředník;284
+1225;eskamotér;282
+1226;napodobitel;282
+1227;iluminát;281
+1228;vezír;280
+1229;štukatér;277
+1230;kosmetik;276
+1231;křupan;276
+1232;provozní pracovník;276
+1233;liberečák;274
+1234;nobile;274
+1235;váhavec;273
+1236;blboun;268
+1237;báňský záchranář;266
+1238;projektantka;266
+1239;mandarín;264
+1240;šrí lanka;264
+1241;kosmopolita;259
+1242;utopista;258
+1243;renegát;257
+1244;elektromontér;256
+1245;fluktuant;254
+1246;koryfej;254
+1247;bloud;251
+1248;advokátní koncipient;250
+1249;plantážník;250
+1250;babča;248
+1251;kmán;248
+1252;patricij;245
+1253;polyglot;245
+1254;uvaděč;245
+1255;podnikový právník;244
+1256;špinavec;244
+1257;technička;243
+1258;cizozemec;242
+1259;hlavní účetní;240
+1260;pošetilec;239
+1261;bytůstka;238
+1262;podkovář;238
+1263;skandalista;237
+1264;elektroinženýr;235
+1265;omezenec;234
+1266;horlivec;233
+1267;koketa;232
+1268;betonář;231
+1269;litvan;230
+1270;výzkumnice;230
+1271;babizna;226
+1272;pojišťovací poradce;226
+1273;jugoslávka;225
+1274;psychotik;224
+1275;výrobce bižuterie;224
+1276;klikař;223
+1277;všivák;223
+1278;vyvolenec;223
+1279;superžena;222
+1280;úchylák;222
+1281;derviš;218
+1282;technický manažer;217
+1283;ergoterapeut;216
+1284;podlahář;215
+1285;kostaričan;213
+1286;nepořádník;212
+1287;nadpraporčík;211
+1288;notorik;211
+1289;zastavárník;211
+1290;zemědělský dělník;210
+1291;dement;209
+1292;vyvrženec;209
+1293;pruďas;206
+1294;novozélanďanka;205
+1295;neznalec;203
+1296;páprda;203
+1297;lihovarník;201
+1298;malorolník;201
+1299;nelida;201
+1300;oblastní manažer;200
+1301;žertéř;200
+1302;ochmelka;199
+1303;přesídlenec;198
+1304;polyhistor;196
+1305;islanďanka;194
+1306;sýrař;194
+1307;revmatik;190
+1308;místní zástupce;189
+1309;sangvinik;189
+1310;zubní technik;188
+1311;budějovičák;187
+1312;optometrista;187
+1313;prudič;187
+1314;fetišista;183
+1315;zimbabwan;182
+1316;lesní inženýr;180
+1317;poturčenec;180
+1318;justiční čekatel;178
+1319;řezač;178
+1320;fridolín;177
+1321;nedochůdče;177
+1322;angolan;174
+1323;imbecil;174
+1324;kulturní referent;174
+1325;zlotřilec;173
+1326;pária;172
+1327;dacan;171
+1328;sufražetka;171
+1329;hlupec;170
+1330;prasák;170
+1331;manipulační dělník;169
+1332;nevychovanec;169
+1333;brašnář;167
+1334;hlupáček;167
+1335;etiopanka;166
+1336;odrodilec;165
+1337;pasíř;165
+1338;dominikánka;163
+1339;somrák;163
+1340;podržtaška;162
+1341;radiologický asistent;161
+1342;horský průvodce;160
+1343;mechanizátor;160
+1344;konžan;159
+1345;sviňák;159
+1346;upisovatel;159
+1347;modistka;157
+1348;trotl;157
+1349;zabedněnec;157
+1350;vojákyně;156
+1351;necita;155
+1352;venezuelec;152
+1353;adiktolog;151
+1354;tavič;151
+1355;otrapa;150
+1356;erotoman;149
+1357;trapič;149
+1358;výhybkář;149
+1359;kyrgyz;148
+1360;divous;147
+1361;taškář;145
+1362;geront;144
+1363;plnič;144
+1364;sketa;144
+1365;bolivijec;143
+1366;balistik;142
+1367;dominikánec;140
+1368;bezpečnostní referent;139
+1369;letecký instruktor;138
+1370;pornograf;137
+1371;rwanďan;137
+1372;strojírenský dělník;137
+1373;zarputilec;137
+1374;autotronik;136
+1375;tvrdohlavec;136
+1376;asfaltér;135
+1377;dokumentátor;135
+1378;mongolka;135
+1379;izolacionista;134
+1380;srílančan;134
+1381;nabob;133
+1382;posluhovač;132
+1383;rozhlasový režisér;132
+1384;filipínka;130
+1385;zmatkář;129
+1386;programátorka;128
+1387;gruzínka;127
+1388;interní auditor;127
+1389;kandrdas;127
+1390;midas;127
+1391;nezasvěcenec;127
+1392;odborný referent;127
+1393;páječ;127
+1394;signalista;126
+1395;kolumbijka;124
+1396;padavka;124
+1397;bejvalka;123
+1398;technický specialista;123
+1399;uganďan;122
+1400;manipulant;121
+1401;matróna;121
+1402;troglodyt;121
+1403;vejtaha;121
+1404;montážník;119
+1405;šosák;119
+1406;vychytralec;119
+1407;odštěpenec;118
+1408;rukavičkář;118
+1409;ochlasta;117
+1410;skrček;117
+1411;studnař;117
+1412;mondéna;116
+1413;nadrotmistr;116
+1414;nemluva;116
+1415;kvalitář;115
+1416;bezbožník;114
+1417;bezpečnostní konzultant;114
+1418;kabalista;114
+1419;pochlebovač;113
+1420;singapurec;113
+1421;caballero;112
+1422;doktůrek;111
+1423;satanáš;111
+1424;kripl;109
+1425;poběhlice;109
+1426;žabař;109
+1427;galán;108
+1428;trumbera;108
+1429;cínař;107
+1430;hnusák;107
+1431;prďola;107
+1432;grobián;106
+1433;jelimánek;106
+1434;olomoučák;105
+1435;zazobanec;105
+1436;holkař;104
+1437;pidimužík;103
+1438;skandalistka;103
+1439;ateistka;101
+1440;pletař;101
+1441;interiérový architekt;100
+1442;síťař;100
+1443;neotesanec;99
+1444;provozní technik;99
+1445;motovidlo;98
+1446;pardubičák;98
+1447;pitomeček;98
+1448;disponent;97
+1449;tepličák;97
+1450;ťulpas;97
+1451;vrtař;97
+1452;zatracenec;97
+1453;autoklempíř;96
+1454;oděvní návrhář;96
+1455;školkař;96
+1456;hlasový pedagog;95
+1457;pařič;95
+1458;satorie;95
+1459;ctižádostivec;94
+1460;namibijec;94
+1461;obchodní referent;94
+1462;oblastní inspektor;94
+1463;velká británie;94
+1464;dětina;93
+1465;nezdvořák;92
+1466;rovnostář;92
+1467;palubní technik;91
+1468;autolakýrník;90
+1469;robotník;90
+1470;vašnosta;90
+1471;hotentot;88
+1472;obejda;88
+1473;smilník;88
+1474;větroplach;88
+1475;pucflek;87
+1476;smuteční řečník;87
+1477;žlučníkář;87
+1478;jezný;86
+1479;napodobovatel;86
+1480;nekřesťan;86
+1481;nonkonformista;86
+1482;šatnář;86
+1483;starucha;86
+1484;zambijec;86
+1485;anorektik;85
+1486;leštič;85
+1487;likérník;85
+1488;ordinář;85
+1489;palubní průvodčí;85
+1490;venezuelanka;85
+1491;černohorka;84
+1492;vagant;84
+1493;servisní pracovník;82
+1494;arménka;81
+1495;makedonka;80
+1496;veleduch;80
+1497;inženýr chemie;79
+1498;dobračisko;78
+1499;kalič;78
+1500;ohava;78
+1501;kořala;77
+1502;kartuzián;76
+1503;nepřejícník;76
+1504;opovážlivec;76
+1505;paladin;76
+1506;fakturant;75
+1507;systémový inženýr;75
+1508;aromaterapeut;74
+1509;nevěrec;74
+1510;peruánka;74
+1511;moldavanka;73
+1512;oční optik;73
+1513;pardubičan;73
+1514;lešenář;72
+1515;pedikér;72
+1516;plejboj;72
+1517;povýšenec;72
+1518;retušér;72
+1519;čičmunda;71
+1520;mosambičan;71
+1521;asistent soudce;70
+1522;číman;70
+1523;sekundář;70
+1524;vedoucí recepce;70
+1525;zdravotní laborant;70
+1526;vlásenkář;69
+1527;zlomyslník;69
+1528;buddhistka;68
+1529;ospalec;68
+1530;nikaragujec;67
+1531;dřevomodelář;66
+1532;greenkeeper;66
+1533;kontrolní pracovník;66
+1534;produktový specialista;66
+1535;scholastik;66
+1536;webdesigner;66
+1537;omítkář;65
+1538;pozlacovač;65
+1539;syfilitik;65
+1540;průserář;64
+1541;erotik;63
+1542;naturalista;63
+1543;propuštěnec;63
+1544;guatemalec;62
+1545;hlavní mechanik;62
+1546;nekrofil;62
+1547;panamec;62
+1548;sexturista;62
+1549;tapetář;62
+1550;milostpán;61
+1551;opočlověk;61
+1552;strojírenský technik;61
+1553;třeštidlo;61
+1554;zápecník;61
+1555;laosan;60
+1556;pojistný matematik;60
+1557;pr specialista;60
+1558;světačka;60
+1559;lichotník;59
+1560;loudal;59
+1561;šéfcukrář;59
+1562;všeumělec;59
+1563;instruktor plavání;58
+1564;letecký technik;58
+1565;zkušební technik;58
+1566;fajnovka;57
+1567;staroch;57
+1568;taneční pedagog;57
+1569;dotěra;56
+1570;guinea-bissau;55
+1571;veterinární technik;55
+1572;aukcionář;54
+1573;operační technik;54
+1574;štěkna;54
+1575;ťululum;54
+1576;celní deklarant;53
+1577;knižní vydavatel;53
+1578;ostřič;52
+1579;svačinář;52
+1580;chilanka;51
+1581;hlavní pokladník;51
+1582;lisař;51
+1583;rolnice;50
+1584;učitýlek;50
+1585;kartáčník;49
+1586;zpustlík;49
+1587;dělňas;48
+1588;dobrotisko;48
+1589;pablb;48
+1590;eremita;47
+1591;koumes;47
+1592;singapuřan;47
+1593;starouš;47
+1594;formíř;46
+1595;parketář;45
+1596;mosambičanka;44
+1597;pederast;44
+1598;pochlebník;44
+1599;doktrinář;43
+1600;frejíř;43
+1601;potrubář;43
+1602;supermuž;43
+1603;traťový dělník;43
+1604;pstruhař;42
+1605;salvadorec;42
+1606;domýšlivec;41
+1607;kapverďan;41
+1608;neomalenec;41
+1609;prvnička;41
+1610;supermanka;41
+1611;chrapoun;40
+1612;izolatér;40
+1613;operátor cnc;40
+1614;krajkář;39
+1615;arivista;38
+1616;oligofrenik;38
+1617;podúředník;38
+1618;rámař;38
+1619;lucemburčanka;37
+1620;mozaikář;37
+1621;zpozdilec;37
+1622;sebemrskač;36
+1623;severokorejka;36
+1624;škodolibec;36
+1625;čachrář;35
+1626;smaltér;35
+1627;strojmistr;35
+1628;univerzalista;35
+1629;vozmistr;35
+1630;farmaceutický asistent;34
+1631;montážní pracovník;34
+1632;samostatný pracovník;34
+1633;zbožíznalec;34
+1634;neofyt;33
+1635;pišišvor;33
+1636;souchotinář;33
+1637;vědeckovýzkumný pracovník;33
+1638;závorář;33
+1639;hinduistka;32
+1640;kambodžanka;32
+1641;neurastenik;32
+1642;vrtichvost;32
+1643;kurevník;31
+1644;laboratorní pracovník;31
+1645;necuda;31
+1646;truhlářka;31
+1647;vrchní kuchař;31
+1648;hondurasan;30
+1649;lodní důstojník;30
+1650;paralytik;30
+1651;chlívák;29
+1652;důlní měřič;29
+1653;ex-manžel;29
+1654;kuliferda;29
+1655;makáč;29
+1656;ohyzda;29
+1657;šibeničník;29
+1658;správce it;28
+1659;štábní praporčík;28
+1660;všeznalec;28
+1661;biomedicínský inženýr;27
+1662;nepálka;27
+1663;nevědomec;27
+1664;plebej;27
+1665;úklidový pracovník;27
+1666;dezinfektor;26
+1667;hradlař;26
+1668;inspektor policie;26
+1669;mnohoobročník;26
+1670;ničemník;26
+1671;právní čekatel;26
+1672;trulant;26
+1673;rozumář;25
+1674;vzorkař;25
+1675;hlavní energetik;24
+1676;kryptograf;24
+1677;mazavka;24
+1678;nedbalec;24
+1679;prubíř;24
+1680;redaktůrek;24
+1681;rozkolník;24
+1682;textilní návrhář;24
+1683;vyhoštěnec;24
+1684;loďmistr;23
+1685;seychelan;23
+1686;stavební klempíř;23
+1687;investiční makléř;22
+1688;kroisos;22
+1689;metrolog;22
+1690;peón;22
+1691;přadlák;22
+1692;zemědělkyně;22
+1693;hlavní metodik;21
+1694;manažer řízení;21
+1695;neřestník;21
+1696;marodér;20
+1697;přemýšlivec;20
+1698;zlovolník;20
+1699;angolanka;19
+1700;kamerunka;19
+1701;letecký navigátor;19
+1702;liknavec;19
+1703;podlézavec;19
+1704;pracovník strážní;19
+1705;šmodrcha;19
+1706;koksař;18
+1707;kurdka;18
+1708;lejdy;18
+1709;nepřizpůsobivec;18
+1710;celibátník;17
+1711;humanitář;17
+1712;nešlechtic;17
+1713;srílančanka;17
+1714;výškový specialista;17
+1715;farmaceutický laborant;16
+1716;kostaričanka;16
+1717;laboratorní asistent;16
+1718;lesní technik;16
+1719;marabut;16
+1720;průmyslový inženýr;16
+1721;školomet;16
+1722;vožrala;16
+1723;zlatotepec;16
+1724;manikér;15
+1725;nestoudník;15
+1726;sadovník;15
+1727;zavrženec;15
+1728;hutní inženýr;14
+1729;kontrolní technik;14
+1730;kypřanka;14
+1731;ordinářka;14
+1732;nekněz;13
+1733;nerozuma;13
+1734;pojistný analytik;13
+1735;protokolující úředník;13
+1736;salvadořan;13
+1737;úpravář;13
+1738;žloutenkář;13
+1739;asistent policie;12
+1740;manipulační pracovník;12
+1741;ruční balič;12
+1742;somračka;12
+1743;vedoucí silniční;12
+1744;velkoměšťák;12
+1745;vrtač;12
+1746;výstavář;12
+1747;bankovní ekonom;11
+1748;biomedicínský technik;11
+1749;celestin;11
+1750;grenaďan;11
+1751;hláskař;11
+1752;ruční tkadlec;11
+1753;stavební specialista;11
+1754;technický inspektor;11
+1755;umíněnec;11
+1756;vypovězenec;11
+1757;zarytec;11
+1758;dobrotivec;10
+1759;exekutorský koncipient;10
+1760;malťanka;10
+1761;plsťař;10
+1762;pomocný zahradník;10
+1763;provozní dispečer;10
+1764;prýmkař;10
+1765;rybářský technik;10
+1766;spolukrajan;10
+1767;švenkr;10
+1768;technickoadministrativní pracovník;10
+1769;vysekávač;10
+1770;botswaňan;9
+1771;ekvádorka;9
+1772;exekutorský kandidát;9
+1773;kovotlačitel;9
+1774;lichometník;9
+1775;personální referent;9
+1776;radiologický fyzik;9
+1777;sklářský technik;9
+1778;vedoucí natáčení;9
+1779;dialogista;8
+1780;inseminační technik;8
+1781;nesympaťák;8
+1782;notářský koncipient;8
+1783;pomocný číšník;8
+1784;toaletář;8
+1785;tranzitér;8
+1786;uruguayka;8
+1787;vlezprdelka;8
+1788;vznětlivec;8
+1789;zahradní technik;8
+1790;asistent choreografie;7
+1791;hanebník;7
+1792;maloměšťan;7
+1793;nimral;7
+1794;nutriční asistent;7
+1795;observant;7
+1796;pracovník evidence;7
+1797;směnitel;7
+1798;sourodák;7
+1799;spiťar;7
+1800;spoluuchazeč;7
+1801;stánkový prodavač;7
+1802;vrchní referent;7
+1803;železobetonář;7
+1804;blouma;6
+1805;chlastoun;6
+1806;epistemolog;6
+1807;finanční auditor;6
+1808;laosanka;6
+1809;manažer bozp;6
+1810;nepozora;6
+1811;podlec;6
+1812;zámkař;6
+1813;zrakový terapeut;6
+1814;chemik laborant;5
+1815;chytrouš;5
+1816;dignitář;5
+1817;džentlas;5
+1818;ghaňanka;5
+1819;instruktor pilates;5
+1820;kašér;5
+1821;kurhan;5
+1822;obalář;5
+1823;oděvní technik;5
+1824;osazenec;5
+1825;osídlovatel;5
+1826;pracovník lodní;5
+1827;provozní specialista;5
+1828;samolibec;5
+1829;staniční dozorce;5
+1830;uganďanka;5
+1831;veterinární asistent;5
+1832;vyloučenec;5
+1833;zimbabwanka;5
+1834;interkulturní pracovník;4
+1835;kódovač;4
+1836;konžanka;4
+1837;líhňař;4
+1838;návěstní technik;4
+1839;notářský kandidát;4
+1840;referent specialista;4
+1841;skenerista;4
+1842;smilnice;4
+1843;sprosťáček;4
+1844;vychcanec;4
+1845;zasazovač;4
+1846;báňský projektant;3
+1847;business analytik;3
+1848;domovníček;3
+1849;hondurasanka;3
+1850;hudebník člen;3
+1851;hutní technik;3
+1852;litvanka;3
+1853;madagaskařan;3
+1854;mediální plánovač;3
+1855;nezvanec;3
+1856;odborný účetní;3
+1857;palubní operátor;3
+1858;pomocný kameraman;3
+1859;popudlivec;3
+1860;přiblblo;3
+1861;taxátor;3
+1862;textilní mistr;3
+1863;textilní technik;3
+1864;vahař;3
+1865;venerik;3
+1866;vrchní osvětlovač;3
+1867;vševědec;3
+1868;zchytralec;3
+1869;zemědělský specialista;3
+1870;živok;3
+1871;fotolaborant;2
+1872;galvanizér;2
+1873;hlavní farmaceut;2
+1874;interiérový poradce;2
+1875;jádrař;2
+1876;knihařský dělník;2
+1877;madagaskařanka;2
+1878;muzejní edukátor;2
+1879;návrhář software;2
+1880;obchodní makléř;2
+1881;odborný kontrolor;2
+1882;ortotik-protetik;2
+1883;poběhlík;2
+1884;převíječ;2
+1885;proradník;2
+1886;provozní elektromechanik;2
+1887;puncovní inspektor;2
+1888;radiologický technik;2
+1889;ruční krajkářka;2
+1890;rwanďanka;2
+1891;svářečský technolog;2
+1892;svrškařka;2
+1893;těžební inženýr;2
+1894;věrolomník;2
+1895;vochlasta;2
+1896;vodárenský technik;2
+1897;vtíravec;2
+1898;wellness specialista;2
+1899;zaprdlík;2
+1900;zasněnec;2
+1901;animační pracovník;1
+1902;bankovní pokladník;1
+1903;chemický technik;1
+1904;dominikánská republika;1
+1905;hudebník sólista;1
+1906;instruktor powerjógy;1
+1907;kameruňanka;1
+1908;klapkař;1
+1909;kuchař expedient;1
+1910;kyrios;1
+1911;lodní technik;1
+1912;obalový technik;1
+1913;operátor dtp;1
+1914;operátor stanice;1
+1915;osobní pokladník;1
+1916;paladýn;1
+1917;porážeč;1
+1918;poříčný;1
+1919;potravinářský dělník;1
+1920;provozní údržbář;1
+1921;reklamační referent;1
+1922;seychelanka;1
+1923;sjednavatel pohřbení;1
+1924;stavební údržbář;1
+1925;vedoucí detektiv;1
+1926;vodárenský specialista;1
+1927;vyšinulec;1
+1928;zpupník;1
